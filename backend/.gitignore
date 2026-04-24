@@ -6,12 +6,9 @@ target/
 .idea/
 *.iml
 
-# Node (React)
-node_modules/
-dist/
 
-# Environment variables
 .env
+*.env
 
 # OS files
 .DS_Store
