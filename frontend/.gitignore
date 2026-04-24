@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+*.env
+
+# Java/Maven
+target/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
