@@ -252,6 +252,6 @@ Field status is **computed on read** rather than stored — it's a pure function
 
 ## 👤 Author
 
-Built by **Charles Wachira ** — BSc Information Technology student at KCA University, Nairobi.
+Built by Charles Wachira *— BSc Information Technology student at KCA University, Nairobi.
 
-- GitHub: [@ngotho01](https://github.com/ngotho01)
+GitHub: [@ngotho01](https://github.com/ngotho01)
